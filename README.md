@@ -1,17 +1,17 @@
 <!--
  * @Author: axjing
  * @Date: 2019-06-03 16:37:21
- * @LastEditTime: 2020-08-05 19:53:31
+ * @LastEditTime: 2020-08-05 20:01:05
  * @LastEditors: Anajing.AI
  * @Description: In User Settings Edit
  * @FilePath: \Anxjing.AI\README.md
  
  -->
-HELLO 我叫安相静
+HELLO 欢迎和我一起学习
 
- *说明：*README文档中还没有分目录整理，网页中有公式的地方会出现乱码，拉取到本地使用MakeDown编译会得到解决。近期忙于毕业及找工作，后续会更新解决，方便共同学习。
-1. **@WeiXin: xiangxinweilaiAXJ**
-2. **[ZhiHu](https://www.zhihu.com/people/anxjing)**
+ 
+- $ @WeiXin: xiangxinweilaiAXJ
+- $ [ZhiHu](https://www.zhihu.com/people/anxjing)
 
 # 教育背景
 - 2017.09-2020.06                   深圳大学                    电子与通信工程（硕士）
@@ -107,6 +107,7 @@ OpenCV, office, Xmind, Visio等；
 - 兴趣： 跑步、健身、篮球、主持、冥想、创新创业交流会、读书交流会、Kindle爱好者;
 
 
+*说明：*README文档中还没有分目录整理，网页中有公式的地方会出现乱码，拉取到本地使用MakeDown编译会得到解决。近期忙于毕业及找工作，后续会更新解决，方便共同学习。
 
 * ```axjingWorker```
 
