@@ -1,7 +1,7 @@
 <!--
  * @Author: axjing
  * @Date: 2019-06-03 16:37:21
- * @LastEditTime: 2020-08-05 20:25:27
+ * @LastEditTime: 2020-08-05 20:39:32
  * @LastEditors: Anajing.AI
  * @Description: In User Settings Edit
  * @FilePath: \Anxjing.AI\README.md
@@ -9,7 +9,8 @@
  -->
 
  
-![alt 属性文本](https://gitee.com/Anxjing_AI/AnImg/raw/master/img/安相静-2寸.jpg "欢迎和我一起学习")
+<img src="https://gitee.com/Anxjing_AI/AnImg/raw/master/img/安相静-2寸.jpg" width="50%">
+
 HELLO 欢迎和我一起学习
 
  
