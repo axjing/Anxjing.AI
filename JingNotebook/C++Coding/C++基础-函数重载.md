@@ -1,7 +1,7 @@
 <!--
  * @Author: Anxjing.AI
  * @Date: 2020-08-05 19:36:50
- * @LastEditTime: 2020-08-06 09:34:01
+ * @LastEditTime: 2020-08-06 09:45:08
  * @LastEditors: Anajing.AI
  * @Description: 
  * @FilePath: \Anxjing.AI\JingNotebook\C++Coding\C++基础-函数重载.md
@@ -129,6 +129,7 @@ Fraction F1, F2;
 
 F1 = Add( F2, 23 );
 ```
+
 前面的语句生成两个集：
 
 集 1：其第一个自变量的类型为 Fraction 的候选函数	设置2：可将第二个参数转换为类型的候选函数**int**
