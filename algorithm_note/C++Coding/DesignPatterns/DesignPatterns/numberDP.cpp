@@ -1,3 +1,12 @@
+/*** 
+ * @Author: Anxjing.AI
+ * @Date: 2020-07-10 20:03:55
+ * @LastEditTime: 2020-08-06 09:40:25
+ * @LastEditors: Anajing.AI
+ * @Description: 
+ * @FilePath: \Anxjing.AI\algorithm_note\C++Coding\DesignPatterns\DesignPatterns\numberDP.cpp
+ * @THIS FILE IS PART OF Anxjing.AI PROJECT
+ */
 #include<iostream>
 using namespace std;
 
@@ -7,6 +16,8 @@ using namespace std;
 保证代码可靠性
 使代码更易被他人理解
 */
+
+
 
 //单例模式
 
