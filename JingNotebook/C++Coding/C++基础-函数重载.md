@@ -1,13 +1,14 @@
 <!--
  * @Author: Anxjing.AI
  * @Date: 2020-08-05 19:36:50
- * @LastEditTime: 2020-08-05 19:44:16
+ * @LastEditTime: 2020-08-06 09:34:01
  * @LastEditors: Anajing.AI
  * @Description: 
  * @FilePath: \Anxjing.AI\JingNotebook\C++Coding\C++基础-函数重载.md
  * @THIS FILE IS PART OF Anxjing.AI PROJECT
 --> 
 # 函数重载
+
 -解释：C++ 允许同一范围内具有相同名称的多个函数的规范。 这些函数称为重载函数。 重载函数使你能够为函数提供不同的语义，具体取决于参数的类型和数量。
 
 - 例如， print 采用 std::string 自变量的函数执行的任务可能与使用类型的参数的任务不同 double 。 重载使您无需使用名称（如 print_string 或） print_double 。 在编译时，编译器根据调用方传入的参数类型选择要使用的重载。 如果调用 print(42.0) ，则 void print(double d) 将调用函数。 如果调用 print("hello world") ，则 void print(std::string) 将调用此重载。
