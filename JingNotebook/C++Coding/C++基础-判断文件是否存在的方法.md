@@ -1,7 +1,7 @@
 <!--
  * @Author: Anxjing.AI
  * @Date: 2020-08-05 19:36:50
- * @LastEditTime: 2020-08-11 19:31:27
+ * @LastEditTime: 2020-08-11 20:11:29
  * @LastEditors: Anajing.AI
  * @Description: 
  * @FilePath: \Anxjing.AI\JingNotebook\C++Coding\C++基础-判断文件是否存在的方法.md
@@ -22,13 +22,18 @@
 #include <string>
 #include <iostream>
 
-using namespace std
+using namespace std;
+```
 
+```cpp
 bool isFileExists_ifstream(string& name) {
     ifstream f(name.c_str());
     return f.good();
 }
 
+```
+
+```cpp
 bool isFileExists_fopen(string& name) {
     if (FILE *file = fopen(name.c_str(), "r")) {
         fclose(file);
@@ -38,10 +43,20 @@ bool isFileExists_fopen(string& name) {
     }   
 }
 
+```
+
+
+```cpp
 bool isFileExists_access(string& name) {
     return (access(name.c_str(), F_OK ) != -1 );
 }
 
+
+```
+
+
+
+```C++
 bool isFileExists_stat(string& name) {
   struct stat buffer;   
   return (stat(name.c_str(), &buffer) == 0); 
