@@ -1,7 +1,7 @@
 <!--
  * @Author: axjing
  * @Date: 2019-06-03 16:37:21
- * @LastEditTime: 2020-08-05 20:39:32
+ * @LastEditTime: 2020-08-08 13:12:05
  * @LastEditors: Anajing.AI
  * @Description: In User Settings Edit
  * @FilePath: \Anxjing.AI\README.md
@@ -109,6 +109,9 @@ OpenCV, office, Xmind, Visio等；
 - 证书：第七、八届清华i-Space深港澳台青年创新创业交流营结业证书、计算机二级(office);
 - 阅读：《长尾理论》、《人类简史》、《从零到一》、《人人都是PM》、《三体》、《周易》、《阳明心学》、《鬼谷子》等；关注知乎、CSDN、36kr、咖啡日报、人人都是PM等资讯平台;
 - 兴趣： 跑步、健身、篮球、主持、冥想、创新创业交流会、读书交流会、Kindle爱好者;
+
+
+# 图片资料
 
 
 *说明：*README文档中还没有分目录整理，网页中有公式的地方会出现乱码，拉取到本地使用MakeDown编译会得到解决。近期忙于毕业及找工作，后续会更新解决，方便共同学习。
