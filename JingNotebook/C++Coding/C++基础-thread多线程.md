@@ -1,7 +1,7 @@
 <!--
  * @Author: Anxjing.AI
  * @Date: 2020-08-19 17:03:00
- * @LastEditTime: 2020-08-22 11:09:10
+ * @LastEditTime: 2020-09-10 06:09:18
  * @LastEditors: Anajing.AI
  * @Description: 
  * @FilePath: \Anxjing.AI\JingNotebook\C++Coding\C++基础-thread多线程.md
@@ -24,6 +24,7 @@
     - 
 ## 操作
 - join 等待线程完成其执行(公开成员函数)
+
 主线程等待子线程的终止。即主线程的代码块中，使用join()方法时主线程需要等待（阻塞）子线程结束了才能继续执行join()之后的代码块。
 - detach容许线程从线程句柄独立开来执行(公开成员函数)
 

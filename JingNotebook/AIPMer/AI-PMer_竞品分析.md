@@ -1,7 +1,7 @@
 <!--
  * @Author: Anxjing.AI
  * @Date: 2020-08-22 18:33:12
- * @LastEditTime: 2020-08-22 18:37:42
+ * @LastEditTime: 2020-08-23 09:54:49
  * @LastEditors: Anajing.AI
  * @Description: 
  * @FilePath: \Anxjing.AI\JingNotebook\AIPMer\AI-PMer_竞品分析.md
@@ -92,3 +92,4 @@
 ## 总结
 
 
+![竞品分析](https://gitee.com/Anxjing_AI/AnImg/raw/master/img/20200823095415.png)
