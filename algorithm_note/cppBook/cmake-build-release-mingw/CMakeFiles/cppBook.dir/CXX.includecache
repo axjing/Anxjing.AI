@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/AnGitHub/Anxjing.AI/algorithm_note/cppBook/mulit-thread/multiThread.cpp
+multiThread.h
+D:/AnGitHub/Anxjing.AI/algorithm_note/cppBook/mulit-thread/multiThread.h
+multiThread.h
+D:/AnGitHub/Anxjing.AI/algorithm_note/cppBook/mulit-thread/multiThread.h
+thread
+-
+mutex
+-
+iostream
+-
+../try1try/tryMain.cpp
+D:/AnGitHub/Anxjing.AI/algorithm_note/cppBook/try1try/tryMain.cpp
+
+D:/AnGitHub/Anxjing.AI/algorithm_note/cppBook/mulit-thread/multiThread.h
+thread
+-
+string
+-
+
+D:/AnGitHub/Anxjing.AI/algorithm_note/cppBook/try1try/tryMain.cpp
+iostream
+-
+string
+-
+

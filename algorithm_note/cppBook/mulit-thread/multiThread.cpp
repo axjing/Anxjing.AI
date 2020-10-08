@@ -7,6 +7,7 @@
 #include <thread>
 #include <mutex>
 #include <iostream>
+#include "../try1try/tryMain.cpp"
 
 using namespace std;
 
@@ -20,60 +21,61 @@ multiThread::~multiThread()
 }
 
 int multiThread::testAI0(int n) {
-    cout << "���ɶ��" << endl;
+    cout << "+++++++++++++++++++++++" << endl;
     return 1;
 
 }
 
 int multiThread::testAI1(int n) {
-    cout << "����զ�Σ�����" << endl;
+    cout << "HHHHHHHHHHHHHHHHHHHHHHHHH" << endl;
     return 1;
 
 }
 
 int multiThread::testAI2(int n) {
-    cout << "�ٳ�һ�飡����" << endl;
+    cout << "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO" << endl;
     return 1;
 
 }
 
 int multiThread::testAI3(int n) {
-    cout << "�ͳ�һ���ˣ�����" << endl;
+    cout << ")))))))))))))))))))))))))))))))))))))))))))" << endl;
     return 1;
 
 }
 
 
 int multiThread::testAI4(int n) {
-    cout << "���в�����" << endl;
+    cout << "((((((((((((((((((((((((()))))))))))))))))))))))))" << endl;
     return 1;
 
 }
 
 int multiThread::testAI5(int n) {
-    cout << "����ҩ����" << endl;
+    cout << "{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}" << endl;
     return 1;
 }
 
 
 int multiThread::testAI6(int n) {
-    cout << "���ж��٣�" << endl;
+    cout << "[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]" << endl;
     return 1;
 }
 
 int multiThread::testAI7(int n) {
-    cout << "��Զ������ж��٣�" << endl;
+    cout << "PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPpp" << endl;
     return 1;
 }
 
 int multiThread::testAI8(int n) {
-    cout << "��Զ������ж��٣�" << endl;
+    cout << "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwwwwwwwww" << endl;
     return 1;
 }
 
 int main() {
     int a = 1;
     int n = 100;
+    trymain();
 //	 thread threads[100];
 //	 // thread threads1[100];
 //	 // thread threads2[100];

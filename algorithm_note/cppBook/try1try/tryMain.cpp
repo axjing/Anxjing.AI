@@ -15,6 +15,6 @@ using namespace std;
 
 int trymain(){
     cout<<"try!!!"<<endl;
-    
+    return 1;
 }
 

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cppBook.dir/objects.a
+C:\minGW\mingw64\bin\ar.exe cr CMakeFiles\cppBook.dir/objects.a @CMakeFiles\cppBook.dir\objects1.rsp
+C:\minGW\mingw64\bin\g++.exe -O3 -DNDEBUG   -Wl,--whole-archive CMakeFiles\cppBook.dir/objects.a -Wl,--no-whole-archive  -o cppBook.exe -Wl,--out-implib,libcppBook.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cppBook.dir\linklibs.rsp

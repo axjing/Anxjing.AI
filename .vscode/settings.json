@@ -4,5 +4,6 @@
         "ostream": "cpp",
         "thread": "cpp"
     },
-    "python.pythonPath": "C:\\Users\\axjin\\AppData\\Local\\conda\\conda\\envs\\tensorflow-gpu\\python.exe"
+    "python.pythonPath": "C:\\Users\\axjin\\AppData\\Local\\conda\\conda\\envs\\tensorflow-gpu\\python.exe",
+    "cmake.configureOnOpen": false
 }
