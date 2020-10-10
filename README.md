@@ -11,7 +11,7 @@
  
 <img src="https://gitee.com/Anxjing_AI/AnImg/raw/master/img/安相静-2寸.jpg" width="50%">
 
-HELLO 欢迎和我一起学习
+HELLO 欢迎和我一起学习！！！
 
  
 - $ @WeiXin: xiangxinweilaiAXJ
